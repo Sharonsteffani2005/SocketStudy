@@ -81,7 +81,7 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 
 
-## Output
+## Output:
 
 ### Client
 ![image](https://github.com/user-attachments/assets/dd5105a2-c09f-4c2f-8c59-6122398bb762)
